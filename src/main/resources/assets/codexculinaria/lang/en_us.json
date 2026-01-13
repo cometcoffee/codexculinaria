@@ -1,13 +1,6 @@
 {
-  "itemGroup.codexculinaria": "Example Mod Tab",
-  "block.codexculinaria.example_block": "Example Block",
-  "item.codexculinaria.example_item": "Example Item",
+  "item.codexculinaria.tomato": "Tomato",
 
-  "codexculinaria.configuration.title": "Codex Culinaria Configs",
-  "codexculinaria.configuration.section.codexculinaria.common.toml": "Codex Culinaria Configs",
-  "codexculinaria.configuration.section.codexculinaria.common.toml.title": "Codex Culinaria Configs",
-  "codexculinaria.configuration.items": "Item List",
-  "codexculinaria.configuration.logDirtBlock": "Log Dirt Block",
-  "codexculinaria.configuration.magicNumberIntroduction": "Magic Number Text",
-  "codexculinaria.configuration.magicNumber": "Magic Number"
+  "creativetab.codexculinaria.cc_foods": "Codex Culinaria: Foods",
+  "creativetab.codexculinaria.cc_tools": "Codex Culinaria: Cooking Tools"
 }
